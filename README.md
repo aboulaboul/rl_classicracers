@@ -1,8 +1,8 @@
 # rl_classicracers
 
-<p align="center">
-  <img src="./png/Capture_000.PNG" width="350" title="Vision Reelle">
-  <img src="./png/Capture_001.PNG" width="350" alt="Classic Racers">
-</p>
+  <img src="./png/Capture_000.PNG" width="100" title="Vision Reelle">
 
-will you be able to tame Bartha495 ?
+# will you be able to tame Bartha495 ?
+<p>
+<img src="./png/Capture_001.PNG" width="500" alt="Classic Racers">
+  </p>
