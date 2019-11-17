@@ -3,7 +3,7 @@
 <p>
   <img src="./png/Capture_000.PNG" width="100" title="Vision Reelle - Classic Racers">
   Classic Racers is a game from Vision Réelle.
-  It's built on Unity and it's a great realistic environment for self driving car with Unity mlagents
+  It's built on Unity and it's a great realistic environment for self driving car using Unity mlagents
  </p>
 
 # Will you be able to tame Bartha495 ?
