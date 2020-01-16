@@ -22,3 +22,4 @@
   
 <p>4) launch training ...
   </p>
+[![Watch the video](https://www.youtube.com/watch?v=F8U5qR97BEo)
