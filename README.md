@@ -22,4 +22,4 @@
   
 <p>4) launch training ...
   </p>
-[![Watch the video](https://www.youtube.com/watch?v=F8U5qR97BEo)
+[![Everything Is AWESOME](https://img.youtube.com/vi/F8U5qR97BEo/1.jpg)](https://www.youtube.com/watch?v=F8U5qR97BEo "Bartha first complete")
