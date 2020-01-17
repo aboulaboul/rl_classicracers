@@ -22,4 +22,4 @@
   
 <p>4) launch training ...
   </p>
-[![Everything Is AWESOME](https://img.youtube.com/vi/F8U5qR97BEo/0.jpg)](https://www.youtube.com/watch?v=F8U5qR97BEo)
+https://youtu.be/F8U5qR97BEo
