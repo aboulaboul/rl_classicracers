@@ -11,7 +11,7 @@
   <img src="./png/Capture_001.PNG" width="500" alt="Classic Racers">
 </p>
 
-<p>1)  follow installation instructions on <a href="https://github.com/Unity-Technologies/ml-agents">
+<p>1)  follow installation instructions on https://github.com/Unity-Technologies/ml-agents
   </p>
   
 <p>2) get a Unity built
@@ -22,6 +22,6 @@
   
 <p>4) launch training
   see first results with 
-  <a href="https://youtu.be/F8U5qR97BEo"><img src="<img src="https://i9.ytimg.com/vi/F8U5qR97BEo/mq2.jpg?sqp=CJzlhvEF&rs=AOn4CLDTiYNgtW3ZFDZRgQxx-rTTcWZ0iA" alt="1st full lap" /></a>
+  <a href="https://youtu.be/F8U5qR97BEo"><img src="<img src="./png/Capture_050.jpg" alt="1st full lap" /></a>
     </p>
 
