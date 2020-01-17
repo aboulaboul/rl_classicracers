@@ -6,7 +6,7 @@
   It's built on Unity and it's a great realistic environment for self driving car using Unity mlagents
  </p>
 
-# tame Bartha495 with Raycats + PPO ?
+# tame Bartha495 with few Raycasts + PPO ?
 <p>
   <img src="./png/Capture_001.PNG" width="500" alt="Classic Racers">
 </p>
