@@ -22,6 +22,6 @@
   
 <p>4) launch training
   see first results with 
-  <a href="https://youtu.be/F8U5qR97BEo"><img src="<img src="./png/Capture_050.jpg" alt="1st full lap" /></a>
+  <img src="<img src="./png/Capture_050.jpg" alt="1st full lap" /><a href="https://youtu.be/F8U5qR97BEo">1st full lap on Youtube</a>
     </p>
 
