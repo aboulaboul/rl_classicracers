@@ -20,8 +20,8 @@
 <p>3) tune yaml file
   </p>
   
-<p>4) launch training
-  see first results with 
+<p>4) launch training and get first results
+  <br>
   <a href="https://youtu.be/F8U5qR97BEo"><img src="./png/Capture_050.jpg" alt="1st full lap" /></a>
     </p>
 
