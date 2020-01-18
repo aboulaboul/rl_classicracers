@@ -6,7 +6,7 @@
   It's built on Unity and it's a great realistic environment for self driving car using Unity mlagents
  </p>
 
-# tame Bartha495 with few Raycasts + PPO ?
+# tame Bartha495 with no best line but just few Raycasts + PPO ?
 <p>
   <img src="./png/Capture_001.PNG" width="500" alt="Classic Racers">
 </p>
@@ -14,7 +14,7 @@
 <p>1)  follow installation instructions on https://github.com/Unity-Technologies/ml-agents
   </p>
   
-<p>2) get a Unity built
+<p>2) get a Unity build
   </p>
     
 <p>3) tune yaml file
